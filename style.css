@@ -8,7 +8,7 @@
     /* D0C9C0 */
     width: 100%;
     margin: 0;
-    height: 500px;
+    height: 440px;
     padding-top: 100px;
     position: relative;
 }
@@ -16,19 +16,18 @@
     position: relative;
     right: -11%;
 }
+.cloud1{
+    position: relative;
+    left: 20%;
+}
 .cloud2{
-   position: relative;
-    right: -3%;
-    bottom: 35%;
+    position: relative;
+    left: -15%;
 }
 .mountain{
     position: relative;
-    bottom: -16%;
-    right: 3%;
-}
-.heading{
-    position: relative;
-    top: 10px;
+    left: 0%;
+    bottom: -3%;
 }
 .middle{
     padding: 40px 0px;
