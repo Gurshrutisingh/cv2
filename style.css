@@ -12,6 +12,10 @@
     padding-top: 100px;
     position: relative;
 }
+.heading{
+    position: relative;
+    top: 10px;
+}
 .cloud1{
     position: relative;
     left: 20%;
